@@ -1,3 +1,8 @@
+> ⚠️ _Warning_ This repository used to be included in https://github.com/hyperupcall/bats-all,
+> but that repository now _directly_ adds upstream bats repositories. Usage of this repository is
+> deprecated. Expect this repository to be either removed or moved to https://github.com/fox-archives.
+
+
 # bats-assert
 
 [![License](https://img.shields.io/npm/l/bats-assert.svg)](https://github.com/bats-core/bats-assert/blob/master/LICENSE)
